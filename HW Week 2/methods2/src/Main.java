@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        String message = "Today the weather is so nice";
+        String message = "Today the weather is so nice.";
         String newMessage = getCity();
         System.out.println(newMessage);
         int number = addition(5,7);

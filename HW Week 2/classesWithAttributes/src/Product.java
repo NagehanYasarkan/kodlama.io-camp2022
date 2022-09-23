@@ -1,6 +1,6 @@
 public class Product {
     public Product(int id, String name, String description, double price, int stockAmount, String colour){
-        System.out.println("Constructive block has worked");
+        System.out.println("Constructive block has worked.");
         this.id = id;
         this.colour = colour;
         this.name = name;

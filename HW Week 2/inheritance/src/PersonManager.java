@@ -4,6 +4,6 @@ public class PersonManager {
         System.out.println("listed");
     }
     public void Add(){
-        System.out.println("added");
+        System.out.println("Added");
     }
 }

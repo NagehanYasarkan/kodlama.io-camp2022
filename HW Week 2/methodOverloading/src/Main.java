@@ -4,7 +4,7 @@ public class Main {
 
         FourOperations fourOperations = new FourOperations();
         System.out.println(fourOperations.addition(2,3));
-        fourOperations.addition(2,3,5);
+        fourOperations.addition(2,3,4);
 
 
     }
